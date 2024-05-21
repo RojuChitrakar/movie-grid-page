@@ -1,0 +1,23 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: bisque;
+}
+img{
+    height: 450px;
+    width: 350px;
+}
+/* #movie-grid{
+    display: flex;
+}
+.detail{
+    display: flex;
+} */
+header{
+    height: 30px;
+    background-color: cadetblue;
+}
+button{
+    background-color: rgb(233, 202, 108);
+}
